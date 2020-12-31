@@ -13,6 +13,8 @@ namespace UD9
             Libro test_libro = new Libro();
             Coche test_coche = new Coche();
             PersonaEj7 perso1 = new PersonaEj7("Marc", 24, "39587464J", 'H', 80.5f, 1.76f);
+            Password contra = new Password(12);
+
 
             string opcion = "";
             Console.WriteLine("Escoja un numero de ejercicio entre el 1 y el 10 (ambos incluidos) ");
@@ -39,6 +41,9 @@ namespace UD9
                     break;
                 case "7":
                     Console.WriteLine("Esta persona se llama {0}, tiene {1} años, su DNI es {2}, su sexo es {3}, pesa {4} kg y mide {5} m", perso1.Nombre, perso1.Edad, perso1.DNI1, perso1.Sexo, perso1.Peso, perso1.Altura);
+                    break;
+                case "8":
+                    contra.MostrarContraseña();
                     break;
                 default:
                     Console.WriteLine("Esa opción no funciona. Vuelve a intentarlo más tarde");
