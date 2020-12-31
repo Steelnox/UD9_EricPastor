@@ -15,6 +15,7 @@ namespace UD9
             PersonaEj7 perso1 = new PersonaEj7("Marc", 24, "39587464J", 'H', 80.5f, 1.76f);
             Password contra = new Password(12);
             Electrodomestico electro = new Electrodomestico(90, "ROJO", 'F', 85);
+            Serie serie = new Serie("La casa de papel", 5, true, "acción", "Roberto Salazar");
 
             string opcion = "";
             Console.WriteLine("Escoja un numero de ejercicio entre el 1 y el 10 (ambos incluidos) ");
@@ -47,6 +48,9 @@ namespace UD9
                     break;
                 case "9":
                     electro.Mostrar();
+                    break;
+                case "10":
+                    Console.WriteLine("Esta serie tiene de titulo {0}, tiene {1} temporadas, es del genero {2} y el creador es {3}", serie.Titulo, serie.N_temporadas, serie.Genero, serie.Creador);
                     break;
                 default:
                     Console.WriteLine("Esa opción no funciona. Vuelve a intentarlo más tarde");
