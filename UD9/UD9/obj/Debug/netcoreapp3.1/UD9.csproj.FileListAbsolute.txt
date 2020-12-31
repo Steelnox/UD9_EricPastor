@@ -1,0 +1,13 @@
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\bin\Debug\netcoreapp3.1\UD9.exe
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\bin\Debug\netcoreapp3.1\UD9.deps.json
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\bin\Debug\netcoreapp3.1\UD9.runtimeconfig.json
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\bin\Debug\netcoreapp3.1\UD9.runtimeconfig.dev.json
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\bin\Debug\netcoreapp3.1\UD9.dll
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\bin\Debug\netcoreapp3.1\UD9.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\obj\Debug\netcoreapp3.1\UD9.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\obj\Debug\netcoreapp3.1\UD9.AssemblyInfoInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\obj\Debug\netcoreapp3.1\UD9.AssemblyInfo.cs
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\obj\Debug\netcoreapp3.1\UD9.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\obj\Debug\netcoreapp3.1\UD9.dll
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\obj\Debug\netcoreapp3.1\UD9.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD9\UD9\obj\Debug\netcoreapp3.1\UD9.genruntimeconfig.cache
