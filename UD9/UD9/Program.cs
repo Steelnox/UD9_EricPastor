@@ -14,7 +14,7 @@ namespace UD9
             Coche test_coche = new Coche();
             PersonaEj7 perso1 = new PersonaEj7("Marc", 24, "39587464J", 'H', 80.5f, 1.76f);
             Password contra = new Password(12);
-
+            Electrodomestico electro = new Electrodomestico(90, "ROJO", 'F', 85);
 
             string opcion = "";
             Console.WriteLine("Escoja un numero de ejercicio entre el 1 y el 10 (ambos incluidos) ");
@@ -44,6 +44,9 @@ namespace UD9
                     break;
                 case "8":
                     contra.MostrarContraseña();
+                    break;
+                case "9":
+                    electro.Mostrar();
                     break;
                 default:
                     Console.WriteLine("Esa opción no funciona. Vuelve a intentarlo más tarde");
