@@ -6,6 +6,7 @@ namespace UD9
 {
     public class Empleado
     {
+        //Ejercicio 2
         private string nombre;
         private double sueldo;
 

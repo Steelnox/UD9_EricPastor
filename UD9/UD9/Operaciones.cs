@@ -6,6 +6,7 @@ namespace UD9
 {
     public class Operaciones
     {
+        //Ejercicio 3
         private int numero1;
         private int numero2;
 
