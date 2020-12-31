@@ -11,6 +11,7 @@ namespace UD9
             Operaciones opera = new Operaciones(10, 2);
             PruebaPersona test_perso = new PruebaPersona();
             Libro test_libro = new Libro();
+            Coche test_coche = new Coche();
 
             string opcion = "";
             Console.WriteLine("Escoja un numero de ejercicio entre el 1 y el 10 (ambos incluidos) ");
@@ -31,6 +32,9 @@ namespace UD9
                     break;
                 case "5":
                     test_libro.Main();
+                    break;
+                case "6":
+                    test_coche.Main();
                     break;
                 default:
                     Console.WriteLine("Esa opción no funciona. Vuelve a intentarlo más tarde");
